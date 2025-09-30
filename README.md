@@ -6,7 +6,7 @@ Me chamo Davi Andrade, tenho 18 anos e estou cursando ciência da computação
 
 <p align="left">
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/daviandradee?tab=repositories">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -32,6 +32,15 @@ Me chamo Davi Andrade, tenho 18 anos e estou cursando ciência da computação
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+          
 />
 
 <br/>
